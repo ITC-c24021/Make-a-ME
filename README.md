@@ -5,9 +5,13 @@
 * [ビルドデータ](./BuildData/)
 
 ## 概要
+このゲームは
 
 ## ジャンル
 4人対戦パーティゲーム
+
+##入力
+コントローラー（SwichProController）
 
 ## 担当プログラムファイル
 * [エネルギー処理](./ProjectData/Assets/Hateruma/Scripts/EnergyScript.cs/)
